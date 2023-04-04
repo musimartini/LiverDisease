@@ -1,6 +1,6 @@
 # LiverDisease
 
-This project is about liver disease. 
+This project is about liver disease was created in cooperation with [Urszula Jarocka](https://github.com/UrszulaJa)
 
 Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs, so it is valid to inspect existing medical test results and find some patterns which may improve disease prediction.
 
