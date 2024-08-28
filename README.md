@@ -2,7 +2,7 @@
 
 The Liver Disease project concerns the analysis of the relationships between the patient's age, gender, blood test results and the risk of liver disease, as well as the relationships between individual variables.
 
-This project is about liver disease and was created in cooperation with [Urszula Jarocka](https://github.com/UrszulaJa).
+This project is about liver disease and was created in cooperation with [Urszula Jarocka](https://www.linkedin.com/in/urszula-jarocka-420b10250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs, so it is valid to inspect existing medical test results and find some patterns which may improve disease prediction.
 
